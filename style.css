@@ -1,0 +1,75 @@
+*{
+    margin: 5px;
+    padding: 0;
+}
+.pl1 {
+    background-image: url(./images/lion.jpg);
+    height: 630px;
+    background-position: center;
+    background-attachment: fixed;
+    opacity: 85%;
+    
+}
+
+.pl1 h1{
+    position: absolute;
+    color: azure;
+    font-size: 60px;
+    background-color: black;
+    margin-left: 400px;
+    margin-right: 375px;
+    align-items: center;
+    margin-top: 285px;
+    font-family: sans-serif;
+    
+}
+.pl2 {
+    background-image: url(./images/dog.jpg);
+    height: 630px;
+    background-position: center;
+    background-attachment: fixed;
+    opacity: 85%;
+}
+
+.pl2 h1{
+    position: absolute;
+    color: azure;
+    font-size: 60px;
+    background-color: black;
+    margin-left: 480px;
+    margin-right: 375px;
+    align-items: center;
+    margin-top: 285px;
+    font-family: sans-serif;
+    
+}
+.pl3 {
+    background-image: url(./images/cat.jpg);
+    height: 630px;
+    background-position: center;
+    background-attachment: fixed;
+    opacity: 85%;
+}
+.pl3 h1{
+    position: absolute;
+    color: azure;
+    font-size: 60px;
+    background-color: black;
+    margin-left: 485px;
+    margin-right: 375px;
+    align-items: center;
+    margin-top: 285px;
+    font-family: sans-serif;
+}
+
+
+.para{
+    color:rgb(163, 47, 47);
+    font-size: 30px;
+    background-color: rgb(198, 202, 198);
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-style: italic;
+}
+
